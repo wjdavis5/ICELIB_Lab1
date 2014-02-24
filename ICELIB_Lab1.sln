@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICELIB_Lab1", "ICELIB_Lab1\ICELIB_Lab1.csproj", "{94BBFCDA-A3E8-456F-BD79-385233AEDFFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94BBFCDA-A3E8-456F-BD79-385233AEDFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94BBFCDA-A3E8-456F-BD79-385233AEDFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94BBFCDA-A3E8-456F-BD79-385233AEDFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94BBFCDA-A3E8-456F-BD79-385233AEDFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
